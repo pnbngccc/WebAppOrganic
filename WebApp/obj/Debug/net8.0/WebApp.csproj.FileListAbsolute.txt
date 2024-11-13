@@ -1,0 +1,272 @@
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\appsettings.json
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.exe
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.deps.json
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.pdb
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.csproj.Up2Date
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.pdb
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+C:\Users\npchi\Desktop\TMDT\WebAppOrganic\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\appsettings.json
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.exe
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.deps.json
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.pdb
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Azure.Core.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Azure.Identity.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.csproj.Up2Date
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.pdb
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+D:\HK2\thuong mai dien tu\TH5\WebAppOrganic\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\appsettings.json
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.exe
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.deps.json
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.pdb
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Azure.Core.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Azure.Identity.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.csproj.Up2Date
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.pdb
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+D:\ThuongMaiDienTu\lab5\WebAppOrganic (2)\WebAppOrganic\WebApp\obj\Debug\net8.0\ref\WebApp.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\appsettings.Development.json
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\appsettings.json
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.staticwebassets.runtime.json
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.exe
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.deps.json
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.runtimeconfig.json
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\WebApp.pdb
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Azure.Core.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Azure.Identity.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.csproj.AssemblyReference.cache
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfoInputs.cache
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.AssemblyInfo.cs
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.csproj.CoreCompileInputs.cache
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cache
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.RazorAssemblyInfo.cs
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp.props
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\scopedcss\bundle\WebApp.styles.css
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.csproj.Up2Date
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\refint\WebApp.dll
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.pdb
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
+D:\ThuongMaiDienTu\1050080278_PhamNguyenBaoNgoc_Lab5\WebAppOrganic\WebAppOrganic\WebApp\obj\Debug\net8.0\ref\WebApp.dll
